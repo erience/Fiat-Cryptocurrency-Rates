@@ -4,7 +4,7 @@ Fiat & Cryptocurrency Rates Live by Erience Solutions
 32+ Fiat Currencies 
 245+ Crypto Currencies
 
-List of Supported Fiat Currencies:
+# List of Supported Fiat Currencies:
 Canadian Dollar - CAD
 Hong Kong Dollar - HKD
 Icelandic Króna - ISK
@@ -40,7 +40,7 @@ South Korean Won - KRW
 Poland Złoty - PLN
 
 
-List of Supported Cryptocurrencies:
+# List of Supported Cryptocurrencies:
 Bitcoin - BTC
 Ethereum - ETH
 XRP - XRP
