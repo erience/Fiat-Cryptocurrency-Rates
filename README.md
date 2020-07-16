@@ -1,7 +1,7 @@
 # Fiat & Cryptocurrency Rates
 Fiat & Cryptocurrency Rates Live by Erience Solutions
 
-32+ Fiat Currencies   
+32+ Fiat Currencies <br />  
 245+ Crypto Currencies  
 
 # List of Supported Fiat Currencies:
