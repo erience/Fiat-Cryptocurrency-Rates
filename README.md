@@ -18,87 +18,87 @@ Swedish Krona - SEK
 Indonesian Rupiah - IDR  
 Indian Rupee - INR  
 Brazilian Real - BRL  
-Russian Ruble - RUB
-Croatian Kuna - HRK
-Japanese Yen - JPY
-Thai Baht - THB
-Swiss Franc - CHF
-Euro - EUR
-Malaysian Ringgit - MYR
-Bulgarian Lev - BGN
-Turkish Lira - TRY
-Chinese Yuan - CNY
-Norwegian Krone - NOK
-New Zealand Dollar - NZD
-South African Rand - ZAR
-United States Dollar - USD
-Mexican Peso - MXN
-Singapore Dollar - SGD
-Australian Dollar - AUD
-Israeli New Shekel - ILS
-South Korean Won - KRW
-Poland Złoty - PLN
+Russian Ruble - RUB  
+Croatian Kuna - HRK  
+Japanese Yen - JPY  
+Thai Baht - THB  
+Swiss Franc - CHF  
+Euro - EUR  
+Malaysian Ringgit - MYR  
+Bulgarian Lev - BGN  
+Turkish Lira - TRY  
+Chinese Yuan - CNY  
+Norwegian Krone - NOK  
+New Zealand Dollar - NZD  
+South African Rand - ZAR  
+United States Dollar - USD  
+Mexican Peso - MXN  
+Singapore Dollar - SGD  
+Australian Dollar - AUD  
+Israeli New Shekel - ILS  
+South Korean Won - KRW  
+Poland Złoty - PLN  
 
 
 # List of Supported Cryptocurrencies:
-Bitcoin - BTC
-Ethereum - ETH
-XRP - XRP
-Bitcoin Cash - BCH
-Bitcoin SV - BSV
-Litecoin - LTC
-Tether - USDT
-EOS - EOS
-Binance Coin - BNB
-Tezos - XTZ
-OKB - OKB
-Cardano - ADA
-ChainLink - LINK
-Stellar - XLM
-Monero - XMR
-TRON - TRX
-Huobi Token - HT
-Ethereum Classic - ETC
-NEO - NEO
-Dash - DASH
-LEO Token - LEO
-Cosmos - ATOM
-Crypto.com Coin - CRO
-IOTA - MIOTA
-Zcash - ZEC
-Maker - MKR
-Ontology - ONT
-NEM - XEM
-USD Coin - USDC
-VeChain - VET
-Basic Attention Token - BAT
-Dogecoin - DOGE
-Qtum - QTUM
-Lisk - LSK
-Algorand - ALGO
-Decred - DCR
-Paxos Standard - PAX
-ICON - ICX
-Bitcoin Gold - BTG
-0x - ZRX
-Ravencoin - RVN
-OMG Network - OMG
-Hedera Hashgraph - HBAR
-Bytom - BTM
-Augur - REP
-Waves - WAVES
-Bitcoin Diamond - BCD
-MonaCoin - MONA
-Siacoin - SC
-TrueUSD - TUSD
-Theta Network - THETA
-Holo - HOT
-Gatechain Token - GT
-Nano - NANO
-Enjin Coin - ENJ
-Dai - DAI
-NEXO - NEXO
-KuCoin Shares - KCS
+Bitcoin - BTC  
+Ethereum - ETH  
+XRP - XRP  
+Bitcoin Cash - BCH  
+Bitcoin SV - BSV  
+Litecoin - LTC  
+Tether - USDT  
+EOS - EOS  
+Binance Coin - BNB  
+Tezos - XTZ  
+OKB - OKB  
+Cardano - ADA  
+ChainLink - LINK  
+Stellar - XLM  
+Monero - XMR  
+TRON - TRX  
+Huobi Token - HT  
+Ethereum Classic - ETC  
+NEO - NEO  
+Dash - DASH  
+LEO Token - LEO  
+Cosmos - ATOM  
+Crypto.com Coin - CRO  
+IOTA - MIOTA  
+Zcash - ZEC  
+Maker - MKR  
+Ontology - ONT  
+NEM - XEM  
+USD Coin - USDC  
+VeChain - VET  
+Basic Attention Token - BAT  
+Dogecoin - DOGE  
+Qtum - QTUM  
+Lisk - LSK  
+Algorand - ALGO  
+Decred - DCR  
+Paxos Standard - PAX  
+ICON - ICX  
+Bitcoin Gold - BTG  
+0x - ZRX  
+Ravencoin - RVN  
+OMG Network - OMG  
+Hedera Hashgraph - HBAR  
+Bytom - BTM  
+Augur - REP  
+Waves - WAVES  
+Bitcoin Diamond - BCD  
+MonaCoin - MONA  
+Siacoin - SC  
+TrueUSD - TUSD  
+Theta Network - THETA  
+Holo - HOT  
+Gatechain Token - GT  
+Nano - NANO  
+Enjin Coin - ENJ  
+Dai - DAI  
+NEXO - NEXO  
+KuCoin Shares - KCS  
 BitTorrent - BTT
 Horizen - ZEN
 V.SYSTEMS - VSYS
