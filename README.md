@@ -131,163 +131,163 @@ Ardor - ARDR
 Zcoin - XZC  
 Bitmax Token - BTMX  
 aelf - ELF  
-Matic Network - MATIC
-REN - REN
-Pundi X - NPXS
-RIF Token - RIF
-Lambda - LAMB
-Loopring - LRC
-Aion - AION
-MaidSafeCoin - MAID
-WAX - WAXP
-iExec RLC - RLC
-Stratis - STRAT
-Terra - LUNA
-BEAM - BEAM
-Grin - GRIN
-Vitae - VITAE
-TomoChain - TOMO
-Electroneum - ETN
-Quant - QNT
-Energi - NRG
-Aave - LEND
-Tokenize Xchange - TKX
-cDAI - CDAI
-Ripio Credit Network - RCN
-SERO - SERO
-ZB Token - ZB
-XMax - XMX
-Handshake - HNS
-Unibright - UBT
-Power Ledger - POWR
-Ark - ARK
-GXChain - GXC
-SOLVE - SOLVE
-Yuan Chain Coin - YCC
-Crypterium - CRPT
-Elastos - ELA
-Aragon - ANT
-Enigma - ENG
-Gas - GAS
-Digitex Futures Exchange - DGTX
-Reddcoin - RDD
-Wanchain - WAN
-Factom - FCT
-Nuls - NULS
-Tether Gold - XAUT
-Ocean Protocol - OCEAN
-ThunderCore - TT
-PIVX - PIVX
-Nebulas - NAS
-YOU Chain - YOU
-FunFair - FUN
-USDK - USDK
-Storj - STORJ
-Tierion - TNT
-Ignis - IGNIS
-Numeraire - NMR
-WINk - WIN
-ZBG Token - ZT
-Bit-Z Token - BZ
-Divi - DIVI
-Bancor Network Token - BNT
-Metal - MTL
-CRYPTO20 - C20
-IoTeX - IOTX
-Metaverse ETP - ETP
-Gnosis - GNO
-Sai - SAI
-Reserve Rights Token - RSR
-Civic - CVC
-Nash Exchange - NEX
-Contentos - COS
-Obyte - GBYTE
-Constellation - DAG
-Syscoin - SYS
-Loom Network - LOOM
-Fantom - FTM
-QASH - QASH
-SingularityNET - AGI
-Elrond - ERD
-Chimpion - BNANA
-MovieBloc - MBL
-Bibox Token - BIX
-Hyperion - HYN
-Tratok - TRAT
-Polymath Network - POLY
-Loki Network - LOKI
-Einsteinium - EMC2
-Revain - R
-Jex Token - JEX
-BOSAGORA - BOA
-Wirex - WXT
-Dent - DENT
-GoChain - GO
-Telos - TLOS
-Bread - BRD
-Populous - PPT
-Kava - KAVA
-Waltonchain - WTC
-WazirX - WRX
-NXT - NXT
-BitKan - KAN
-Thorchain - RUNE
-QuarkChain - QKC
-Celer Network - CELR
-Groestlcoin - GRS
-NKN - NKN
-Blocknet - BLOCK
-Fetch.ai - FET
-SwissBorg - CHSB
-Dragonchain - DRGN
-Kleros - PNK
-Cred - LBA
-LTO Network - LTO
-Moeda Loyalty Points - MDA
-Arcblock - ABT
-Kusama - KSM
-STASIS EURO - EURS
-Cindicator - CND
-STP Network - STPT
-AXEL - AXEL
-Nexus - NXS
-Wixlar - WIX
-Medibloc - MED
-OTOCASH - OTO
-CyberMiles - CMT
-Neblio - NEBL
-EDC Blockchain - EDC
-Request - REQ
-Bitcore - BTX
-Ultra - UOS
-Dentacoin - DCN
-IRISnet - IRIS
-Streamr DATAcoin - DATA
-Robotina - ROX
-Maximine - MXM
-ODEM - ODE
-Apollo - APL
-Vertcoin - VTC
-Ultiledger - ULT
-VeThor Token - VTHO
-DUSK Network - DUSK
-DMarket - DMT
-TrueChain - TRUE
-SmartCash - SMART
-Burst - BURST
-Mossland - MOC
-Mainframe - MFT
-Storm - STORM
-Skycoin - SKY
-Ankr - ANKR
-Telcoin - TEL
-IoT Chain - ITC
-Perlin - PERL
-Quantstamp - QSP
-Livepeer - LPT
-OST - OST
-LINKA - LINKA
-COCOS BCX - COCOS
-BLTV Token - BLTV
-B2BX - B2B
-High Performance Blockchain - HPB
+Matic Network - MATIC  
+REN - REN  
+Pundi X - NPXS  
+RIF Token - RIF  
+Lambda - LAMB  
+Loopring - LRC  
+Aion - AION  
+MaidSafeCoin - MAID  
+WAX - WAXP  
+iExec RLC - RLC  
+Stratis - STRAT  
+Terra - LUNA  
+BEAM - BEAM  
+Grin - GRIN  
+Vitae - VITAE  
+TomoChain - TOMO  
+Electroneum - ETN  
+Quant - QNT  
+Energi - NRG  
+Aave - LEND  
+Tokenize Xchange - TKX  
+cDAI - CDAI  
+Ripio Credit Network - RCN  
+SERO - SERO  
+ZB Token - ZB  
+XMax - XMX  
+Handshake - HNS  
+Unibright - UBT  
+Power Ledger - POWR  
+Ark - ARK  
+GXChain - GXC  
+SOLVE - SOLVE  
+Yuan Chain Coin - YCC  
+Crypterium - CRPT  
+Elastos - ELA  
+Aragon - ANT  
+Enigma - ENG  
+Gas - GAS  
+Digitex Futures Exchange - DGTX  
+Reddcoin - RDD  
+Wanchain - WAN  
+Factom - FCT  
+Nuls - NULS  
+Tether Gold - XAUT  
+Ocean Protocol - OCEAN  
+ThunderCore - TT  
+PIVX - PIVX  
+Nebulas - NAS  
+YOU Chain - YOU  
+FunFair - FUN  
+USDK - USDK  
+Storj - STORJ  
+Tierion - TNT  
+Ignis - IGNIS  
+Numeraire - NMR  
+WINk - WIN  
+ZBG Token - ZT  
+Bit-Z Token - BZ  
+Divi - DIVI  
+Bancor Network Token - BNT  
+Metal - MTL  
+CRYPTO20 - C20  
+IoTeX - IOTX  
+Metaverse ETP - ETP  
+Gnosis - GNO  
+Sai - SAI  
+Reserve Rights Token - RSR  
+Civic - CVC  
+Nash Exchange - NEX  
+Contentos - COS  
+Obyte - GBYTE  
+Constellation - DAG  
+Syscoin - SYS  
+Loom Network - LOOM  
+Fantom - FTM  
+QASH - QASH  
+SingularityNET - AGI  
+Elrond - ERD  
+Chimpion - BNANA  
+MovieBloc - MBL  
+Bibox Token - BIX  
+Hyperion - HYN  
+Tratok - TRAT  
+Polymath Network - POLY  
+Loki Network - LOKI  
+Einsteinium - EMC2  
+Revain - R  
+Jex Token - JEX  
+BOSAGORA - BOA  
+Wirex - WXT  
+Dent - DENT  
+GoChain - GO  
+Telos - TLOS  
+Bread - BRD  
+Populous - PPT  
+Kava - KAVA  
+Waltonchain - WTC  
+WazirX - WRX  
+NXT - NXT  
+BitKan - KAN  
+Thorchain - RUNE  
+QuarkChain - QKC  
+Celer Network - CELR  
+Groestlcoin - GRS  
+New Kind of Network - NKN  
+Blocknet - BLOCK  
+Fetch.ai - FET  
+SwissBorg - CHSB  
+Dragonchain - DRGN  
+Kleros - PNK  
+Cred - LBA  
+LTO Network - LTO  
+Moeda Loyalty Points - MDA  
+Arcblock - ABT  
+Kusama - KSM  
+STASIS EURO - EURS  
+Cindicator - CND  
+STP Network - STPT  
+AXEL - AXEL  
+Nexus - NXS  
+Wixlar - WIX  
+Medibloc - MED  
+OTOCASH - OTO  
+CyberMiles - CMT  
+Neblio - NEBL  
+EDC Blockchain - EDC  
+Request - REQ  
+Bitcore - BTX  
+Ultra - UOS  
+Dentacoin - DCN  
+IRISnet - IRIS  
+Streamr DATAcoin - DATA  
+Robotina - ROX  
+Maximine - MXM  
+ODEM - ODE  
+Apollo - APL  
+Vertcoin - VTC  
+Ultiledger - ULT  
+VeThor Token - VTHO  
+DUSK Network - DUSK  
+DMarket - DMT  
+TrueChain - TRUE  
+SmartCash - SMART  
+Burst - BURST  
+Mossland - MOC  
+Mainframe - MFT  
+Storm - STORM  
+Skycoin - SKY  
+Ankr - ANKR  
+Telcoin - TEL  
+IoT Chain - ITC  
+Perlin - PERL  
+Quantstamp - QSP  
+Livepeer - LPT  
+OST - OST  
+LINKA - LINKA  
+COCOS BCX - COCOS  
+BLTV Token - BLTV  
+B2BX - B2B  
+High Performance Blockchain - HPB  
