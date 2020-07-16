@@ -5,19 +5,19 @@ Fiat & Cryptocurrency Rates Live by Erience Solutions
 245+ Crypto Currencies
 
 # List of Supported Fiat Currencies:
-Canadian Dollar - CAD
-Hong Kong Dollar - HKD
-Icelandic Króna - ISK
-Philippine Peso - PHP
-Danish Krone - DKK
-Hungarian Forint - HUF
-Czech Koruna - CZK
-Great Britain Pound - GBP
-Romanian Leu - RON
-Swedish Krona - SEK
-Indonesian Rupiah - IDR
-Indian Rupee - INR
-Brazilian Real - BRL
+Canadian Dollar - CAD  
+Hong Kong Dollar - HKD  
+Icelandic Króna - ISK  
+Philippine Peso - PHP  
+Danish Krone - DKK  
+Hungarian Forint - HUF  
+Czech Koruna - CZK  
+Great Britain Pound - GBP  
+Romanian Leu - RON  
+Swedish Krona - SEK  
+Indonesian Rupiah - IDR  
+Indian Rupee - INR  
+Brazilian Real - BRL  
 Russian Ruble - RUB
 Croatian Kuna - HRK
 Japanese Yen - JPY
