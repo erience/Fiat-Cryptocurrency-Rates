@@ -99,38 +99,38 @@ Enjin Coin - ENJ
 Dai - DAI  
 NEXO - NEXO  
 KuCoin Shares - KCS  
-BitTorrent - BTT
-Horizen - ZEN
-V.SYSTEMS - VSYS
-DigixDAO - DGD
-Nervos Network - CKB
-Kyber Network - KNC
-Bytecoin - BCN
-DigiByte - DGB
-MCO - MCO
-Komodo - KMD
-HyperCash - HC
-Blockstack - STX
-BitShares - BTS
-Synthetix Network Token - SNX
-Decentraland - MANA
-DxChain Token - DX
-FTX Token - FTT
-IOST - IOST
-Steem - STEEM
-Zilliqa - ZIL
-Verge - XVG
-Aeternity - AE
-Swipe - SXP
-Status - SNT
-Golem - GNT
-Celsius Network - CEL
-Chiliz - CHZ
-Seele - SEELE
-Ardor - ARDR
-Zcoin - XZC
-Bitmax Token - BTMX
-aelf - ELF
+BitTorrent - BTT  
+Horizen - ZEN  
+V.SYSTEMS - VSYS  
+DigixDAO - DGD  
+Nervos Network - CKB  
+Kyber Network - KNC  
+Bytecoin - BCN  
+DigiByte - DGB  
+MCO - MCO  
+Komodo - KMD  
+HyperCash - HC  
+Blockstack - STX  
+BitShares - BTS  
+Synthetix Network Token - SNX  
+Decentraland - MANA  
+DxChain Token - DX  
+FTX Token - FTT  
+IOST - IOST  
+Steem - STEEM  
+Zilliqa - ZIL  
+Verge - XVG  
+Aeternity - AE  
+Swipe - SXP  
+Status - SNT  
+Golem - GNT  
+Celsius Network - CEL  
+Chiliz - CHZ  
+Seele - SEELE  
+Ardor - ARDR  
+Zcoin - XZC  
+Bitmax Token - BTMX  
+aelf - ELF  
 Matic Network - MATIC
 REN - REN
 Pundi X - NPXS
